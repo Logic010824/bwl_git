@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("起飞");
         System.out.println(111);
         System.out.println(222);
+        System.out.println("你好迅猛龙");
     }
 }
