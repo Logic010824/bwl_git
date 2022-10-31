@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println(111);
         System.out.println(222);
         System.out.println("你好迅猛龙");
+        System.out.println("我好累啊!");
     }
 }
